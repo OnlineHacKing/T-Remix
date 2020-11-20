@@ -200,5 +200,5 @@ tput cup 17 23
     echo -e "\e[41m Please subsrcibe our channel \e[m"
 fi
 tput cup 20 0
-figlet -f slant "Bhavik Tutorials" |lolcat
+figlet -f slant "ONLINE HACKING" |lolcat
 echo
