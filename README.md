@@ -86,14 +86,15 @@ $ uninstall-T-Remix
 ```
 ## Development by :-
 
-## Developer / Author: Ashish / [Bhavik Oza](https://github.com/Bhaviktutorials/)
+## Developer / Author: Ashish / [Bhavik Oza]
+## Developer / Author: Suman / [Online Hacking](https://github.com/onlinehacking/)
 
-## Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
+## Website: [Live Hacking](https://www.onlinehacking-net.com)
 
 
 ## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:
 
-<a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="110" height="110">
-<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="110" height="110">
-<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/96461243-c576bf00-1241-11eb-8fdf-139b4859bfb0.png" alt="Telegram" width="80" height="80">
-<a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/96461629-3d44e980-1242-11eb-8691-46dd14355085.png" alt="Instagram" width="90" height="90">
+<a href="https://github.com/OnlineHacking/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="110" height="110">
+<a href="https://www.youtube.com/onlinehacking"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="110" height="110">
+<a href="https://t.me/Onlinehacking"><img src="https://user-images.githubusercontent.com/64035221/96461243-c576bf00-1241-11eb-8fdf-139b4859bfb0.png" alt="Telegram" width="80" height="80">
+<a href="https://www.instagram.com/suman333mondal_/"><img src="https://user-images.githubusercontent.com/64035221/96461629-3d44e980-1242-11eb-8691-46dd14355085.png" alt="Instagram" width="90" height="90">
