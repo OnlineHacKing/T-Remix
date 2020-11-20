@@ -6,7 +6,7 @@ mpv /sdcard/hacker.mp3 > /dev/null 2>&1
 clear
 echo 
 echo "      
-                 < ━━━━━━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━━━ >  " |lolcat                 
+                 < ━━━━━━━━━━━━━━ [★] Online HacKing [★] ━━━━━━━━━━━━━━ >  " |lolcat                 
 echo 
 
 
