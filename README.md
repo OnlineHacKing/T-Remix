@@ -38,24 +38,24 @@ Hope you guys like this Project,then dont forget to give it a like and stay conn
   
 * `Commands` for termux
 ```
-$ termux-setup-storage
+termux-setup-storage
   
-$ pkg update && pkg upgrade && pkg install git -y
+pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/T-Remix
+git clone https://github.com/OnlineHacking/T-Remix
 
-$ ls
+ls
 
-$ cd T-Remix
+cd T-Remix
 
-$ ls
+ls
 
-$ chmod +x *
+chmod +x *
 
-$ bash t-remix.sh
+bash t-remix.sh
 ```
 #### For Video Tutorial:-
-[YouTube](https://youtu.be/8herILka7_o)
+[YouTube](https://youtu.be/8herIL)
 
 ### Screenshots
 
